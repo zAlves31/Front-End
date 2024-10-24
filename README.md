@@ -40,10 +40,6 @@ Bem-vindo ao meu repositório de projetos iniciais de front-end! Aqui você enco
 
 - **Informações sobre o Site:** Uma seção dedicada a apresentar as funcionalidades e objetivos do Projeto Gamer, esclarecendo aos usuários o propósito da plataforma.
 
-- **Campeonatos em Andamento:** Uma lista atualizada dos campeonatos ativos, permitindo que os usuários acompanhem eventos em tempo real.
-
-- **Partidas Recentes (Sidebar):** Um painel lateral que exibe as últimas partidas realizadas, mantendo os usuários informados sobre as atividades mais recentes.
-
 - **Últimas Notícias:** Uma seção que apresenta as novidades e atualizações relacionadas ao mundo dos jogos e eventos, mantendo os usuários engajados.
 
 - **Rodapé:** Contém informações adicionais, como links úteis, contato e direitos autorais.
